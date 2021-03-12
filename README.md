@@ -14,6 +14,8 @@ uutils coreutils
 
 -----------------------------------------------
 
+Zdes bil Ruslan
+
 uutils is an attempt at writing universal (as in cross-platform) CLI
 utilities in [Rust](http://www.rust-lang.org). This repository is intended to
 aggregate GNU coreutils rewrites.
