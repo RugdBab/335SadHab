@@ -2,4 +2,8 @@ Hello Git
 It`s new line
 Add new line
 new change
+<<<<<<< Updated upstream
 123 321
+=======
+dqewfasdgf
+>>>>>>> Stashed changes
