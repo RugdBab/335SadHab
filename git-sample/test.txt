@@ -1,8 +1,18 @@
   Hello Git
 It`s new line
+<<<<<<< HEAD
 123
 Add new line  ghghghghg
 asdfad<fs
 sdfsdf2134
 sdgsfg
 14235235
+=======
+Add new line
+new change
+<<<<<<< Updated upstream
+123 321
+=======
+dqewfasdgf
+>>>>>>> Stashed changes
+>>>>>>> newbranch
